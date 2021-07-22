@@ -1,0 +1,53 @@
+body
+{
+  background-color: #f9dfed;
+}
+.header
+{
+  padding: 20px;
+  line-height: 1.5;
+  font-family: 'Bitter', serif;
+}
+
+.header img
+{
+  width: 140px;
+  height: 160px;
+  border-radius: 60%;
+  border: 2px solid black;
+}
+
+.qualifications .degree-list
+{
+  line-height: 2.0;
+  font-size: 15px;
+  font-family: 'Bitter', serif;
+}
+
+.work
+{
+  line-height: 2.0;
+  font-size: 15px;
+  font-family: 'Bitter', serif;
+}
+
+.skills
+{
+  line-height: 2.0;
+  font-size: 15px;
+  font-family: 'Bitter', serif;
+}
+
+.hobbies-list
+{
+  line-height: 2.0;
+  font-size: 15px;
+  font-family: 'Bitter', serif;
+}
+
+.details
+{
+  line-height: 2.0;
+  font-size: 15px;
+  font-family: 'Bitter', serif;
+}
